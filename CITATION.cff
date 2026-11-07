@@ -1,0 +1,137 @@
+cff-version: 1.2.0
+message: >-
+  If you use variant-workbench, please cite it as below, and also cite the
+  data sources it is built from (see CITATIONS.md and NOTICE.md).
+title: variant-workbench
+type: software
+authors:
+  - alias: netmaster296
+abstract: >-
+  Open-source genetic variant database: a GRCh38 warehouse of genes, studied
+  variants and their evidence from gnomAD, ClinVar, GENCODE, GTEx, the GWAS
+  Catalog and MaveDB. Research use only.
+repository-code: "https://github.com/netmaster296/variant-workbench"
+url: "https://github.com/netmaster296/variant-workbench"
+license: GPL-3.0-or-later
+keywords:
+  - genomics
+  - bioinformatics
+  - GRCh38
+  - variants
+  - ClinVar
+  - GWAS
+  - GTEx
+  - MaveDB
+  - open data
+references:
+  - type: article
+    title: gnomAD flagship paper (gnomAD v4.1 data)
+    authors:
+      - family-names: Chen
+        given-names: S.
+    doi: 10.1038/s41586-023-06045-0
+    notes: >-
+      Confirmed on the gnomAD citation page, which gives the DOI and
+      "(Chen et al., 2023)" but not the title.
+  - type: article
+    title: "GENCODE 2025: reference gene annotation for human and mouse"
+    authors:
+      - family-names: Mudge
+        given-names: J. M.
+    journal: Nucleic Acids Research
+    year: 2025
+    volume: 53
+    issue: D1
+    start: D966
+    end: D975
+    doi: 10.1093/nar/gkae1078
+    notes: Confirmed on the GENCODE publications page.
+  - type: article
+    title: NHGRI-EBI GWAS Catalog (2025 Nucleic Acids Research update)
+    authors:
+      - family-names: Cerezo
+        given-names: M.
+    journal: Nucleic Acids Research
+    year: 2025
+    volume: 53
+    issue: D1
+    start: D998
+    end: D1005
+    doi: 10.1093/nar/gkae1070
+    notes: >-
+      Confirmed on the GWAS Catalog citation page, which lists authors,
+      journal and DOI but not the title.
+  - type: article
+    title: >-
+      MaveDB 2024: a curated community database with over seven million
+      variant effects from multiplexed functional assays
+    authors:
+      - family-names: Rubin
+        given-names: A. F.
+    journal: Genome Biology
+    year: 2025
+    volume: 26
+    issue: 1
+    start: 13
+    doi: 10.1186/s13059-025-03476-y
+    notes: Confirmed on the MaveDB citation page.
+  - type: data
+    title: MaveDB bulk data dump mavedb-dump.2026062418131 (as of 2026-06-24)
+    authors:
+      - name: MaveDB
+    doi: 10.5281/zenodo.20840937
+    notes: Zenodo record 20840937. Licence CC0 1.0.
+  - type: article
+    title: >-
+      Saturation mutagenesis of twenty disease-associated regulatory elements
+      at single base-pair resolution
+    authors:
+      - family-names: Kircher
+        given-names: Martin
+    journal: Nature Communications
+    year: 2019
+    doi: 10.1038/s41467-019-11526-w
+    notes: >-
+      PMID 31395865. Requested by the Fort Lauderdale notice on 28 MaveDB
+      score sets (urn:mavedb:00000014 to 00000034); details from MaveDB main.json.
+  - type: article
+    title: >-
+      A comprehensive map of missense trafficking variants in rhodopsin and
+      their response to pharmacologic correction
+    authors:
+      - family-names: Manian
+        given-names: Kannan V.
+    year: 2025
+    doi: 10.1101/2025.02.27.640335
+    notes: >-
+      bioRxiv preprint. Requested by MaveDB score set urn:mavedb:00001275-a-1
+      together with dataset DOI 10.5281/zenodo.19558926; details from MaveDB
+      main.json.
+  - type: data
+    title: RHO surface trafficking DMS scores (MaveDB urn:mavedb:00001275-a-1)
+    authors:
+      - family-names: Manian
+        given-names: Kannan V.
+    doi: 10.5281/zenodo.19558926
+  - type: article
+    title: GTEx v8 consortium paper
+    authors:
+      - name: GTEx Consortium
+    journal: Science
+    year: 2020
+    doi: 10.1126/science.aaz1776
+    notes: >-
+      Not confirmed on an official GTEx page (seen only on a secondary page).
+      GTEx also asks for its acknowledgement statement; see NOTICE.md.
+  - type: article
+    title: ClinVar (Landrum et al., Nucleic Acids Research 2016)
+    authors:
+      - family-names: Landrum
+        given-names: M. J.
+    journal: Nucleic Acids Research
+    year: 2016
+    doi: 10.1093/nar/gkv1222
+    notes: >-
+      Not confirmed: the ClinVar citation pages could not be read during the
+      audit, and NCBI's preferred ClinVar citation was not seen. The 2014 paper
+      is doi 10.1093/nar/gkt1113.

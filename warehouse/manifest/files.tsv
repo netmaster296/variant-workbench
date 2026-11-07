@@ -1,0 +1,106 @@
+path	bytes	fetch_name	fetch_state	fetch_bytes	size_matches_log	note
+raw\clinvar\variant_summary.txt.gz	457862838	clinvar_variant_summary	OK	457862838	yes	ClinVar weekly summary, GRCh37 and GRCh38 mixed
+raw\gencode\gencode.v49.annotation.gtf.gz	93374019	gencode_v49_gtf	OK	93374019	yes	GENCODE v49 annotation
+raw\gnomad\constraint\gnomad.v4.1.constraint_metrics.tsv	95546041	gnomad_v4_1_constraint	OK	95546041	yes	gnomAD v4.1 constraint metrics
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr1.vcf.bgz	18789775480	gnomad_exomes_chr1	OK	18789775480	yes	gnomAD v4.1 exome sites VCF, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr1.vcf.bgz.tbi	130696	gnomad_exomes_chr1_tbi	OK	130696	yes	gnomAD v4.1 exome index, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr10.vcf.bgz	7858233309	gnomad_exomes_chr10	OK	7858233309	yes	gnomAD v4.1 exome sites VCF, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr10.vcf.bgz.tbi	63934	gnomad_exomes_chr10_tbi	OK	63934	yes	gnomAD v4.1 exome index, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr11.vcf.bgz	11641720279	gnomad_exomes_chr11	OK	11641720279	yes	gnomAD v4.1 exome sites VCF, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr11.vcf.bgz.tbi	72428	gnomad_exomes_chr11_tbi	OK	72428	yes	gnomAD v4.1 exome index, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr12.vcf.bgz	10632124827	gnomad_exomes_chr12	OK	10632124827	yes	gnomAD v4.1 exome sites VCF, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr12.vcf.bgz.tbi	73346	gnomad_exomes_chr12_tbi	OK	73346	yes	gnomAD v4.1 exome index, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr13.vcf.bgz	3540233028	gnomad_exomes_chr13	OK	3540233028	yes	gnomAD v4.1 exome sites VCF, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr13.vcf.bgz.tbi	36968	gnomad_exomes_chr13_tbi	OK	36968	yes	gnomAD v4.1 exome index, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr14.vcf.bgz	6669068987	gnomad_exomes_chr14	OK	6669068987	yes	gnomAD v4.1 exome sites VCF, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr14.vcf.bgz.tbi	47202	gnomad_exomes_chr14_tbi	OK	47202	yes	gnomAD v4.1 exome index, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr15.vcf.bgz	7374290946	gnomad_exomes_chr15	OK	7374290946	yes	gnomAD v4.1 exome sites VCF, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr15.vcf.bgz.tbi	51155	gnomad_exomes_chr15_tbi	OK	51155	yes	gnomAD v4.1 exome index, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr16.vcf.bgz	9774275728	gnomad_exomes_chr16	OK	9774275728	yes	gnomAD v4.1 exome sites VCF, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr16.vcf.bgz.tbi	47912	gnomad_exomes_chr16_tbi	OK	47912	yes	gnomAD v4.1 exome index, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr17.vcf.bgz	12017042594	gnomad_exomes_chr17	OK	12017042594	yes	gnomAD v4.1 exome sites VCF, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr17.vcf.bgz.tbi	55983	gnomad_exomes_chr17_tbi	OK	55983	yes	gnomAD v4.1 exome index, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr18.vcf.bgz	3390375115	gnomad_exomes_chr18	OK	3390375115	yes	gnomAD v4.1 exome sites VCF, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr18.vcf.bgz.tbi	33492	gnomad_exomes_chr18_tbi	OK	33492	yes	gnomAD v4.1 exome index, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr19.vcf.bgz	12620525657	gnomad_exomes_chr19	OK	12620525657	yes	gnomAD v4.1 exome sites VCF, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr19.vcf.bgz.tbi	45979	gnomad_exomes_chr19_tbi	OK	45979	yes	gnomAD v4.1 exome index, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr2.vcf.bgz	14282176877	gnomad_exomes_chr2	OK	14282176877	yes	gnomAD v4.1 exome sites VCF, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr2.vcf.bgz.tbi	114639	gnomad_exomes_chr2_tbi	OK	114639	yes	gnomAD v4.1 exome index, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr20.vcf.bgz	4760834034	gnomad_exomes_chr20	OK	4760834034	yes	gnomAD v4.1 exome sites VCF, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr20.vcf.bgz.tbi	33684	gnomad_exomes_chr20_tbi	OK	33684	yes	gnomAD v4.1 exome index, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr21.vcf.bgz	2250319809	gnomad_exomes_chr21	OK	2250319809	yes	gnomAD v4.1 exome sites VCF, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr21.vcf.bgz.tbi	14118	gnomad_exomes_chr21_tbi	OK	14118	yes	gnomAD v4.1 exome index, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr22.vcf.bgz	5060347554	gnomad_exomes_chr22	OK	5060347554	yes	gnomAD v4.1 exome sites VCF, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr22.vcf.bgz.tbi	22536	gnomad_exomes_chr22_tbi	OK	22536	yes	gnomAD v4.1 exome index, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr3.vcf.bgz	11586472818	gnomad_exomes_chr3	OK	11586472818	yes	gnomAD v4.1 exome sites VCF, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr3.vcf.bgz.tbi	92706	gnomad_exomes_chr3_tbi	OK	92706	yes	gnomAD v4.1 exome index, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr4.vcf.bgz	7712255367	gnomad_exomes_chr4	OK	7712255367	yes	gnomAD v4.1 exome sites VCF, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr4.vcf.bgz.tbi	78479	gnomad_exomes_chr4_tbi	OK	78479	yes	gnomAD v4.1 exome index, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr5.vcf.bgz	8494344938	gnomad_exomes_chr5	OK	8494344938	yes	gnomAD v4.1 exome sites VCF, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr5.vcf.bgz.tbi	78966	gnomad_exomes_chr5_tbi	OK	78966	yes	gnomAD v4.1 exome index, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr6.vcf.bgz	9132083331	gnomad_exomes_chr6	OK	9132083331	yes	gnomAD v4.1 exome sites VCF, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr6.vcf.bgz.tbi	77127	gnomad_exomes_chr6_tbi	OK	77127	yes	gnomAD v4.1 exome index, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr7.vcf.bgz	9675275184	gnomad_exomes_chr7	OK	9675275184	yes	gnomAD v4.1 exome sites VCF, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr7.vcf.bgz.tbi	77730	gnomad_exomes_chr7_tbi	OK	77730	yes	gnomAD v4.1 exome index, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr8.vcf.bgz	7275385426	gnomad_exomes_chr8	OK	7275385426	yes	gnomAD v4.1 exome sites VCF, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr8.vcf.bgz.tbi	66417	gnomad_exomes_chr8_tbi	OK	66417	yes	gnomAD v4.1 exome index, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr9.vcf.bgz	8041521990	gnomad_exomes_chr9	OK	8041521990	yes	gnomAD v4.1 exome sites VCF, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chr9.vcf.bgz.tbi	59035	gnomad_exomes_chr9_tbi	OK	59035	yes	gnomAD v4.1 exome index, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chrX.vcf.bgz	5746768174	gnomad_exomes_chrX	OK	5746768174	yes	gnomAD v4.1 exome sites VCF, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chrX.vcf.bgz.tbi	57299	gnomad_exomes_chrX_tbi	OK	57299	yes	gnomAD v4.1 exome index, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chrY.vcf.bgz	113561604	gnomad_exomes_chrY	OK	113561604	yes	gnomAD v4.1 exome sites VCF, not loaded as rows
+raw\gnomad\exomes\gnomad.exomes.v4.1.sites.chrY.vcf.bgz.tbi	5364	gnomad_exomes_chrY_tbi	OK	5364	yes	gnomAD v4.1 exome index, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr1.vcf.bgz	44078103205	gnomad_genomes_chr1	OK	44078103205	yes	gnomAD v4.1 genome sites VCF, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr1.vcf.bgz.tbi	220042	gnomad_genomes_chr1_tbi	OK	220042	yes	gnomAD v4.1 genome index, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr10.vcf.bgz	26841421792	gnomad_genomes_chr10	OK	26841421792	yes	gnomAD v4.1 genome sites VCF, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr10.vcf.bgz.tbi	127291	gnomad_genomes_chr10_tbi	OK	127291	yes	gnomAD v4.1 genome index, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr11.vcf.bgz	26393279310	gnomad_genomes_chr11	OK	26393279310	yes	gnomAD v4.1 genome sites VCF, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr11.vcf.bgz.tbi	127058	gnomad_genomes_chr11_tbi	OK	127058	yes	gnomAD v4.1 genome index, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr12.vcf.bgz	25950974228	gnomad_genomes_chr12	OK	25950974228	yes	gnomAD v4.1 genome sites VCF, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr12.vcf.bgz.tbi	126421	gnomad_genomes_chr12_tbi	OK	126421	yes	gnomAD v4.1 genome index, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr13.vcf.bgz	17100492651	gnomad_genomes_chr13	OK	17100492651	yes	gnomAD v4.1 genome sites VCF, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr13.vcf.bgz.tbi	92856	gnomad_genomes_chr13_tbi	OK	92856	yes	gnomAD v4.1 genome index, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr14.vcf.bgz	17860683682	gnomad_genomes_chr14	OK	17860683682	yes	gnomAD v4.1 genome sites VCF, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr14.vcf.bgz.tbi	85574	gnomad_genomes_chr14_tbi	OK	85574	yes	gnomAD v4.1 genome index, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr15.vcf.bgz	16904431253	gnomad_genomes_chr15	OK	16904431253	yes	gnomAD v4.1 genome sites VCF, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr15.vcf.bgz.tbi	79598	gnomad_genomes_chr15_tbi	OK	79598	yes	gnomAD v4.1 genome index, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr16.vcf.bgz	18918703003	gnomad_genomes_chr16	OK	18918703003	yes	gnomAD v4.1 genome sites VCF, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr16.vcf.bgz.tbi	78008	gnomad_genomes_chr16_tbi	OK	78008	yes	gnomAD v4.1 genome index, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr17.vcf.bgz	17412317144	gnomad_genomes_chr17	OK	17412317144	yes	gnomAD v4.1 genome sites VCF, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr17.vcf.bgz.tbi	77219	gnomad_genomes_chr17_tbi	OK	77219	yes	gnomAD v4.1 genome index, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr18.vcf.bgz	14430177524	gnomad_genomes_chr18	OK	14430177524	yes	gnomAD v4.1 genome sites VCF, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr18.vcf.bgz.tbi	72358	gnomad_genomes_chr18_tbi	OK	72358	yes	gnomAD v4.1 genome index, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr19.vcf.bgz	13679473477	gnomad_genomes_chr19	OK	13679473477	yes	gnomAD v4.1 genome sites VCF, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr19.vcf.bgz.tbi	53702	gnomad_genomes_chr19_tbi	OK	53702	yes	gnomAD v4.1 genome index, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr2.vcf.bgz	46559034968	gnomad_genomes_chr2	OK	46559034968	yes	gnomAD v4.1 genome sites VCF, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr2.vcf.bgz.tbi	230708	gnomad_genomes_chr2_tbi	OK	230708	yes	gnomAD v4.1 genome index, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr20.vcf.bgz	11838569571	gnomad_genomes_chr20	OK	11838569571	yes	gnomAD v4.1 genome sites VCF, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr20.vcf.bgz.tbi	58550	gnomad_genomes_chr20_tbi	OK	58550	yes	gnomAD v4.1 genome index, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr21.vcf.bgz	7758981978	gnomad_genomes_chr21	OK	7758981978	yes	gnomAD v4.1 genome sites VCF, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr21.vcf.bgz.tbi	36783	gnomad_genomes_chr21_tbi	OK	36783	yes	gnomAD v4.1 genome index, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr22.vcf.bgz	8731339280	gnomad_genomes_chr22	OK	8731339280	yes	gnomAD v4.1 genome sites VCF, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr22.vcf.bgz.tbi	36654	gnomad_genomes_chr22_tbi	OK	36654	yes	gnomAD v4.1 genome index, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr3.vcf.bgz	39251922328	gnomad_genomes_chr3	OK	39251922328	yes	gnomAD v4.1 genome sites VCF, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr3.vcf.bgz.tbi	188994	gnomad_genomes_chr3_tbi	OK	188994	yes	gnomAD v4.1 genome index, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr4.vcf.bgz	36033143211	gnomad_genomes_chr4	OK	36033143211	yes	gnomAD v4.1 genome sites VCF, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr4.vcf.bgz.tbi	181551	gnomad_genomes_chr4_tbi	OK	181551	yes	gnomAD v4.1 genome index, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr5.vcf.bgz	32707176660	gnomad_genomes_chr5	OK	32707176660	yes	gnomAD v4.1 genome sites VCF, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr5.vcf.bgz.tbi	171322	gnomad_genomes_chr5_tbi	OK	171322	yes	gnomAD v4.1 genome index, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr6.vcf.bgz	31788224183	gnomad_genomes_chr6	OK	31788224183	yes	gnomAD v4.1 genome sites VCF, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr6.vcf.bgz.tbi	163217	gnomad_genomes_chr6_tbi	OK	163217	yes	gnomAD v4.1 genome index, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr7.vcf.bgz	31250828580	gnomad_genomes_chr7	OK	31250828580	yes	gnomAD v4.1 genome sites VCF, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr7.vcf.bgz.tbi	150953	gnomad_genomes_chr7_tbi	OK	150953	yes	gnomAD v4.1 genome index, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr8.vcf.bgz	29291764214	gnomad_genomes_chr8	OK	29291764214	yes	gnomAD v4.1 genome sites VCF, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr8.vcf.bgz.tbi	138638	gnomad_genomes_chr8_tbi	OK	138638	yes	gnomAD v4.1 genome index, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr9.vcf.bgz	24761070444	gnomad_genomes_chr9	OK	24761070444	yes	gnomAD v4.1 genome sites VCF, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chr9.vcf.bgz.tbi	116388	gnomad_genomes_chr9_tbi	OK	116388	yes	gnomAD v4.1 genome index, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chrX.vcf.bgz	22908335319	gnomad_genomes_chrX	OK	22908335319	yes	gnomAD v4.1 genome sites VCF, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chrX.vcf.bgz.tbi	145081	gnomad_genomes_chrX_tbi	OK	145081	yes	gnomAD v4.1 genome index, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chrY.vcf.bgz	599108494	gnomad_genomes_chrY	OK	599108494	yes	gnomAD v4.1 genome sites VCF, not loaded as rows
+raw\gnomad\genomes\gnomad.genomes.v4.1.sites.chrY.vcf.bgz.tbi	13725	gnomad_genomes_chrY_tbi	OK	13725	yes	gnomAD v4.1 genome index, not loaded as rows
+raw\gtex\GTEx_Analysis_2017-06-05_v8_RNASeQCv1.1.9_gene_median_tpm.gct.gz	6952331	gtex_v8_gene_median_tpm	OK	6952331	yes	GTEx v8 median TPM
+raw\gtex\GTEx_Analysis_2017-06-05_v8_RNASeQCv1.1.9_gene_tpm.gct.gz	1625807147	gtex_v8_gene_tpm	OK	1625807147	yes	GTEx v8 sample-level TPM, deferred
+raw\gtex\GTEx_Analysis_v8_eQTL.tar	1562828800	gtex_v8_eqtl	OK	1562828800	yes	GTEx v8 eQTL tar
+raw\gtex\GTEx_Analysis_v8_sQTL.tar	569169920	gtex_v8_sqtl	OK	569169920	yes	GTEx v8 sQTL tar
+raw\gwas\gwas-catalog-associations_ontology-annotated-full.zip	72739430	gwas_associations	OK	72739430	yes	GWAS Catalog associations
+raw\mavedb\mavedb-dump.2026062418131.tar.gz	1907736956	mavedb_bulk	OK	1907736956	yes	MaveDB bulk dump

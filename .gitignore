@@ -1,0 +1,26 @@
+# Raw downloads (about 768 GB) are re-fetched with scripts/fetch_sources.py.
+# Never commit them: size, and raw/gtex holds the sample-level TPM file and
+# raw/mavedb holds researcher names in main.json.
+raw/
+
+# SQLite catalog (rebuilt by scripts/load_core.py and build_manifest.py).
+db/
+*.sqlite
+*.sqlite-*
+
+# Fetch logs hold local download paths. logs/fetch.status is kept.
+logs/*.log
+
+# Python bytecode.
+__pycache__/
+*.pyc
+
+# DuckDB spill space.
+warehouse/tmp/
+
+# Warehouse data tables are published as GitHub Release assets, not in git.
+warehouse/**/*.parquet
+warehouse/**/*.tsv
+warehouse/**/_parts/
+# The raw-file manifest is a small text record of the download, not a data table.
+!warehouse/manifest/files.tsv

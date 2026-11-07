@@ -1,0 +1,8 @@
+# Python 3.13 was used for the build (plan.md).
+# Versions marked "build" are the ones recorded in plan.md, warehouse/qc/wave0.md
+# and the wave-0 install log. The build did not record numpy or Pillow versions.
+duckdb==2.0.0       # build (plan.md, wave-0 install log)
+pyarrow==26.0.1     # build (plan.md, wave-0 install log)
+biopython==1.88     # build (plan.md, qc/wave0.md); BGZF reads in vcf_query.py
+numpy               # load_gtex.py only; not recorded (2.4.3 was installed on 2026-11-07)
+pillow              # plot_cognitive_loci.py only; not recorded (12.2.0 was installed on 2026-11-07)

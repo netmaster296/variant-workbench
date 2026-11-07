@@ -1,0 +1,4 @@
+# Store every file exactly as written. No line-ending conversion.
+# The reports, report SQL, QC notes and manifests are published byte for byte,
+# and some of them use CRLF line endings.
+* -text
